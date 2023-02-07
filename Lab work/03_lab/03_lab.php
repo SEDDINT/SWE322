@@ -17,6 +17,8 @@ function divide($x, $y)
     return ($x / $y);
 }
 
+echo "Salaheddin Thabet Mohammad";
+echo "<br>";
 echo add(10, 2);
 echo "<br>";
 echo substract(10, 2);
